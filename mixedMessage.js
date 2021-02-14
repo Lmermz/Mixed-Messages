@@ -1,9 +1,3 @@
-// we want to create a program that each time it is run, it will output a random statement, made up of at least 3 random data elements
-
-//You need a pick-me up and a reminder of how great you are: 
-// Remember that you are: fabulous, wonderful, smart, confident,  
-// So go ahead and : smile, laugh, hug yourself,  
-// And as a wise person once said: INSERT QUOTES 
 
 //Create the arrays with the sections to randomly select
 const lineOne = ['fabulous','wonderful','lovely','smart','caring','beautiful','strong']; 
